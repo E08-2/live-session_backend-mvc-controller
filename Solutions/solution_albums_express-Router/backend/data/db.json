@@ -1,0 +1,16 @@
+{
+  "albums": [
+    {
+      "id": "bd0a5eed-d9f2-414d-8818-4e211fea0048",
+      "band": "Black Sabbath",
+      "albumTitle": "Kittens For Everyone",
+      "albumYear": "2022"
+    },
+    {
+      "id": "e2dea127-68bc-4c5d-9589-93358342b6d1",
+      "band": "Spice Girls",
+      "albumTitle": "Spiceworld",
+      "albumYear": "1997"
+    }
+  ]
+}
